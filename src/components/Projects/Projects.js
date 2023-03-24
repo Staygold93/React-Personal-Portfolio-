@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import Horoscope from "../../Assets/Projects/Horoscope.png";
 import Mojave from "../../Assets/Projects/Mojave.png";
 import Crypto from "../../Assets/Projects/Crypto.png"
-import TextEditor from "../../Assets/Projects/TextEditor"
+import TextEditor from "../../Assets/Projects/TextEditor.png"
 
 
 function Projects() {
