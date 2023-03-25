@@ -8,11 +8,11 @@ SO THAT I can assess whether they're a good candidate for an open position
 ## Description 
 A Professional portfolio created by React, Javascript, Nodejs, Express and Bootstrap. 
 
-## Table of Contents 
-## User Story
-##  Description
-##  Screenshots
-##  Contact me 
+# Table of Contents 
+# User Story
+# Description
+# Screenshots
+# Contact me 
 
 
 ## Screenshots 
