@@ -9,10 +9,10 @@ SO THAT I can assess whether they're a good candidate for an open position
 A Professional portfolio created by React, Javascript, Nodejs, Express and Bootstrap. 
 
 ## Table of Contents 
-* User Story
-* Description
-* Screenshots
-* Contact me 
+User Story
+ Description
+Screenshots
+Contact me 
 
 
 ## Screenshots 
