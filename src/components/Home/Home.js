@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Type from "./Type";
+import MERN from "../../Assets/Projects/MERN.png"
 
 
 function Home() {
@@ -31,7 +32,7 @@ function Home() {
 
             <Col md={5} style={{ paddingBottom: 20 }}>
               <img
-                src={null}
+                src={MERN}
                 alt="home pic"
                 className="img-fluid"
                 style={{ maxHeight: "450px" }}

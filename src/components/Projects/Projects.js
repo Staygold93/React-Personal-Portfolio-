@@ -14,10 +14,10 @@ function Projects() {
             <Particle />
             <Container>
                 <h1 className="project-heading">
-                    My Recent <strong className="purple">Works </strong>
+                    My Recent <strong className="purple">Projects </strong>
                 </h1>
                 <p style={{ color: "white" }}>
-                    Here are a few projects I've worked on recently.
+                    Here are a few apps I've worked on recently.
                 </p>
                 <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
                     <Col md={4} className="project-card">
@@ -25,7 +25,7 @@ function Projects() {
                             imgPath={Mojave}
                             isBlog={false}
                             title="Mojave E-Commerce"
-                            description=""
+                            description="A Full-Stack E-commerce store prototype built with MERN stack, that enables customers to purchase products and utilizes third party API's."
                             ghLink="https://github.com/Staygold93/Mojave"
                             demoLink="https://mojave-store.herokuapp.com/"
                         />
