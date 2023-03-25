@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Type from "./Type";
 import MERN from "../../Assets/Projects/MERN.png"
+import Home2 from "./Home2";
 
 
 function Home() {
@@ -41,6 +42,7 @@ function Home() {
           </Row>
         </Container>
       </Container>
+      <Home2 />
   
     </section>
   );
