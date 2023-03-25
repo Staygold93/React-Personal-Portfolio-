@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Personal-Portfolio-/static/css/main.91dd49c4.css",
+    "main.js": "/React-Personal-Portfolio-/static/js/main.1f1ea467.js",
+    "static/js/988.f3fa1326.chunk.js": "/React-Personal-Portfolio-/static/js/988.f3fa1326.chunk.js",
+    "static/media/Horoscope.png": "/React-Personal-Portfolio-/static/media/Horoscope.ed00e7fc1c636c6d896c.png",
+    "static/media/Mojave.png": "/React-Personal-Portfolio-/static/media/Mojave.b5fd8ff23788eebf593b.png",
+    "static/media/Crypto.png": "/React-Personal-Portfolio-/static/media/Crypto.ba5bbcfe0dec303724c3.png",
+    "static/media/MERN.png": "/React-Personal-Portfolio-/static/media/MERN.af8357bd9ebbabea86f2.png",
+    "static/media/Aboutpic.png": "/React-Personal-Portfolio-/static/media/Aboutpic.9909a3cd4f985daa6047.png",
+    "static/media/smallerMe.png": "/React-Personal-Portfolio-/static/media/smallerMe.5ba82e26a1b454092512.png",
+    "static/media/TextEditor.png": "/React-Personal-Portfolio-/static/media/TextEditor.efc2f600275e68706a4b.png",
+    "static/media/logo2.png": "/React-Personal-Portfolio-/static/media/logo2.268a3531fc00aafdda6a.png",
+    "index.html": "/React-Personal-Portfolio-/index.html",
+    "main.91dd49c4.css.map": "/React-Personal-Portfolio-/static/css/main.91dd49c4.css.map",
+    "main.1f1ea467.js.map": "/React-Personal-Portfolio-/static/js/main.1f1ea467.js.map",
+    "988.f3fa1326.chunk.js.map": "/React-Personal-Portfolio-/static/js/988.f3fa1326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91dd49c4.css",
+    "static/js/main.1f1ea467.js"
+  ]
+}
