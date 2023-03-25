@@ -23,18 +23,18 @@ function Home2() {
                             Im a Full-Stack Developer , striving to contibute to Professional Full-Stack projects all the while
                             learning in the process.
                             <br />
-                            <br />I am dedicated to build Responsive apps using
+                            <br />I am dedicated to building Responsive apps using
                             <i>
-                                <b className="purple"> React, Javascript, Node, Express, MongoDb etc </b>
+                                <b className="purple"> React, Javascript, Node, Express, MongoDb, Graphql </b>
                             </i>
                             <br />
                             <br />
                             My field of Interest's are building new &nbsp;
                             <i>
-                                <b className="purple"> Full Stack Apllications </b> and
-                                also in areas related to{" "}
+                                <b className="purple"> Full Stack Apllications </b> 
+                                with an interest in exploring into {" "}
                                 <b className="purple">
-                                    Deep Learning and Natural Launguage Processing.
+                                    Deep Learning and Natural Language Processing.
                                 </b>
                             </i>
                            
