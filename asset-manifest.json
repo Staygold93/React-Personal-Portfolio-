@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Personal-Portfolio-/static/css/main.f8b78b72.css",
-    "main.js": "/React-Personal-Portfolio-/static/js/main.eca18915.js",
+    "main.js": "/React-Personal-Portfolio-/static/js/main.819361e6.js",
     "static/js/988.f3fa1326.chunk.js": "/React-Personal-Portfolio-/static/js/988.f3fa1326.chunk.js",
     "static/media/Horoscope.png": "/React-Personal-Portfolio-/static/media/Horoscope.ed00e7fc1c636c6d896c.png",
     "static/media/Mojave.png": "/React-Personal-Portfolio-/static/media/Mojave.b5fd8ff23788eebf593b.png",
@@ -15,11 +15,11 @@
     "static/media/logo2.png": "/React-Personal-Portfolio-/static/media/logo2.268a3531fc00aafdda6a.png",
     "index.html": "/React-Personal-Portfolio-/index.html",
     "main.f8b78b72.css.map": "/React-Personal-Portfolio-/static/css/main.f8b78b72.css.map",
-    "main.eca18915.js.map": "/React-Personal-Portfolio-/static/js/main.eca18915.js.map",
+    "main.819361e6.js.map": "/React-Personal-Portfolio-/static/js/main.819361e6.js.map",
     "988.f3fa1326.chunk.js.map": "/React-Personal-Portfolio-/static/js/988.f3fa1326.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8b78b72.css",
-    "static/js/main.eca18915.js"
+    "static/js/main.819361e6.js"
   ]
 }
