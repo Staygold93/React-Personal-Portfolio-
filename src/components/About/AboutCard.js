@@ -10,8 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Aldo Perez </span>
             from <span className="purple"> Dallas, Texas.</span>
-            <br />Im a Full-Stack Developer , striving to contibute to great projects all the while 
-                learning in the process. 
+            <br />Originally from Los Angeles, i was always curious as to how technology worked 
+            around me, this curiosity and urge in learning directed me towards a Full-Stack Development course at SMU. 
+            
+                
             <br />
             <br />
             Apart from coding, some other activities that I enjoy

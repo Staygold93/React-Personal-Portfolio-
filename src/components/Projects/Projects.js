@@ -6,6 +6,8 @@ import Horoscope from "../../Assets/Projects/Horoscope.png";
 import Mojave from "../../Assets/Projects/Mojave.png";
 import Crypto from "../../Assets/Projects/Crypto.png"
 import TextEditor from "../../Assets/Projects/TextEditor.png"
+import weatherForecast from "../../Assets/Projects/weatherForecast.png"
+import insomnia from "../../Assets/Projects/insomnia.png"
 
 
 function Projects() {
@@ -61,6 +63,28 @@ function Projects() {
                             description="A text-editor-app created using front-end and back-end modularized using webpack plugins, next-gen JavaScript and also utilizing IndexDb, service worker and manifest.json files."
                             ghLink="https://github.com/Staygold93/PWA-TextEditor"
                             demoLink="https://text-editor-idb.herokuapp.com/"
+                        />
+                    </Col>
+                    
+                    <Col md={4} className="project-card">
+                        <ProjectCard
+                            imgPath={weatherForecast}
+                            isBlog={false}
+                            title="Weather-Forecast"
+                            description="A weather dashboard which displays the current forecast and a five-day foreccast for the user's selected city using a Server-side API ."
+                            ghLink="https://github.com/Staygold93/Weather-forecast-challenge"
+                            demoLink="https://staygold93.github.io/Weather-forecast-challenge/"
+                        />
+                    </Col>
+
+                    <Col md={4} className="project-card">
+                        <ProjectCard
+                            imgPath={insomnia}
+                            isBlog={false}
+                            title="Social-Network-Api"
+                            description="API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list using Node.js, Mongoose and Express."
+                            ghLink="https://github.com/Staygold93/Social-Network-Api"
+                            demoLink="https://drive.google.com/file/d/1jTtQ7f8n_q98ALp-cP7rb4tBcLwDMN5X/view"
                         />
                     </Col>
 
