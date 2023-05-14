@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/React-Personal-Portfolio-/static/css/main.f8b78b72.css",
-    "main.js": "/React-Personal-Portfolio-/static/js/main.819361e6.js",
+    "main.js": "/React-Personal-Portfolio-/static/js/main.2f03fe35.js",
     "static/js/988.f3fa1326.chunk.js": "/React-Personal-Portfolio-/static/js/988.f3fa1326.chunk.js",
     "static/media/Horoscope.png": "/React-Personal-Portfolio-/static/media/Horoscope.ed00e7fc1c636c6d896c.png",
+    "static/media/summarizerPic.png": "/React-Personal-Portfolio-/static/media/summarizerPic.6b981f1d793b33ce3233.png",
     "static/media/Mojave.png": "/React-Personal-Portfolio-/static/media/Mojave.b5fd8ff23788eebf593b.png",
     "static/media/Crypto.png": "/React-Personal-Portfolio-/static/media/Crypto.ba5bbcfe0dec303724c3.png",
     "static/media/insomnia.png": "/React-Personal-Portfolio-/static/media/insomnia.8b8aff46c107e852f2e4.png",
@@ -15,11 +16,11 @@
     "static/media/logo2.png": "/React-Personal-Portfolio-/static/media/logo2.268a3531fc00aafdda6a.png",
     "index.html": "/React-Personal-Portfolio-/index.html",
     "main.f8b78b72.css.map": "/React-Personal-Portfolio-/static/css/main.f8b78b72.css.map",
-    "main.819361e6.js.map": "/React-Personal-Portfolio-/static/js/main.819361e6.js.map",
+    "main.2f03fe35.js.map": "/React-Personal-Portfolio-/static/js/main.2f03fe35.js.map",
     "988.f3fa1326.chunk.js.map": "/React-Personal-Portfolio-/static/js/988.f3fa1326.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8b78b72.css",
-    "static/js/main.819361e6.js"
+    "static/js/main.2f03fe35.js"
   ]
 }
